@@ -1,11 +1,14 @@
 body{
     background-color:whitesmoke;
+    margin: 15px
 }
 
 h1{
     color:palevioletred; 
     font-size:xx-large; 
     font-stretch:ultra-expanded;
+    padding:25px
+    margin: 2000px;
 }
 
 h2{
@@ -33,3 +36,6 @@ td {
 
 /*CSS Class*/
 .photo {font-style: italic;}
+
+/*CSS Reset*/
+html {margin:0; padding:0; font-size:medium; line-height: 1;}
