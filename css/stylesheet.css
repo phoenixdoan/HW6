@@ -1,2 +1,35 @@
-body{background-color:whitesmoke;
+body{
+    background-color:whitesmoke;
 }
+
+h1{
+    color:palevioletred; 
+    font-size:xx-large; 
+    font-stretch:ultra-expanded;
+}
+
+h2{
+    color:purple; 
+    font-size:x-large; 
+    font-stretch:ultra-expanded;
+}
+
+h3{
+    color:palevioletred; 
+    font-size:large; 
+    font-stretch:ultra-expanded;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+td {
+    text-align: center;
+}
+
+/*CSS Class*/
+.photo {font-style: italic;}
